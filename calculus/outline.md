@@ -1,4 +1,4 @@
-Certainly! Here’s a comprehensive outline for a course titled "Calculus from the Perspective of Python Programming." This course is designed for students who are proficient in Python and aims to teach Calculus concepts primarily through coding examples and applications.
+Here’s a comprehensive outline for a course titled "Calculus from the Perspective of Python Programming." This course is designed for students who are proficient in Python and aims to teach Calculus concepts primarily through coding examples and applications.
 
 ### Course Outline: Calculus from the Perspective of Python Programming
 
